@@ -1,4 +1,4 @@
-# Hardware design
-BearCon2.fzz - Fritzing file for the BEARCon2.
-BearCon2_schematic.pdf - Current Schematic from Fritzing.
-BearCon2_breadboard.pdf - Current Breadboard from Fritzing.
+<h1># Hardware design</h1>
+BearCon2.fzz - Fritzing file for the BEARCon2.<br>
+BearCon2_schematic.pdf - Current Schematic from Fritzing.<br>
+BearCon2_breadboard.pdf - Current Breadboard from Fritzing.<br>
